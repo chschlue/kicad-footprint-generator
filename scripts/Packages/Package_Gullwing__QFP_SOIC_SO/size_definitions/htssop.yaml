@@ -213,21 +213,6 @@ HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm:
         num_pins_y: 14
         EP_size_x: 2.6 .. 3.1
         EP_size_y: 5.2 .. 5.6
-
-HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm_ThermalVias:
-        size_source: 'https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF'
-        body_size_x: 4.3 .. 4.5
-        body_size_y: 9.6 .. 9.8
-        overall_height:
-                maximum: 1.1
-        overall_size_x: 6.25 .. 6.5
-        lead_width: 0.19 .. 0.3
-        lead_len: 0.5 .. 0.7
-        pitch: 0.65
-        num_pins_x: 0
-        num_pins_y: 14
-        EP_size_x: 2.6 .. 3.1
-        EP_size_y: 5.2 .. 5.6
         thermal_vias:
                 count: [2, 4]
                 drill: 0.3
