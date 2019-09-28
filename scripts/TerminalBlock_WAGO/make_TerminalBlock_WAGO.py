@@ -126,7 +126,7 @@ if __name__ == '__main__':
     rm=5
     package_height=14
     leftbottom_offset=[3.5, 9, 3.8]
-    ddrill=1.1
+    ddrill=1.15
     pad=[1.5,3]
     screw_diameter=2.2
     bevel_height=[1,6.7,9.5]
@@ -176,7 +176,7 @@ if __name__ == '__main__':
     rm=7.5
     package_height=14
     leftbottom_offset=[3.5, 9, 6.3]
-    ddrill=1.1
+    ddrill=1.15
     pad=[1.5,3]
     screw_diameter=2.2
     bevel_height=[1,6.7,9.5]
@@ -226,7 +226,7 @@ if __name__ == '__main__':
     rm=10
     package_height=14
     leftbottom_offset=[3.5, 9, 8.8]
-    ddrill=1.1
+    ddrill=1.15
     pad=[1.5,3]
     screw_diameter=2.2
     bevel_height=[1,6.7,9.5]
