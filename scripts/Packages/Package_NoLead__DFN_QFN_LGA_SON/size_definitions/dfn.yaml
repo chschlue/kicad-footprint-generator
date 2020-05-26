@@ -314,8 +314,8 @@ DFN-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm:
   lead_len: 0.20 .. 0.30 .. 0.50 # only max given in DS.
                                  # Min and nominal from JEDEC MO-229 V2020D-3
 
-  EP_size_x: 0.9
-  EP_size_y: 1.6
+  EP_size_x: 0.75 .. 0.9 .. 1.00
+  EP_size_y: 1.45 .. 1.6 .. 1.70
 
   pitch: 0.5
   num_pins_x: 0
